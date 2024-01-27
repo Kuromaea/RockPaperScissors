@@ -102,6 +102,16 @@
     color: red;
 }
 
+/* Title Button */
+.title-btn {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 900;
+    color: #222;
+    text-align: center;
+    text-decoration: underline;
+}
+
 /* Game Buttons */
 .choices-btn {
     text-align: center;
