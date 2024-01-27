@@ -15,13 +15,13 @@
 }
 
 /* Titles & Rules */
-.container {
+.header-container {
     width: 100%;
     margin: 0 auto;
     margin-bottom: 50px;
 }
 
-.container h1 {
+.header-container h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
     font-weight: bold;
@@ -31,7 +31,7 @@
     text-align: center;
 }
 
-.container h2 {
+.header-container h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 24px;
     font-weight: 600;
@@ -41,7 +41,7 @@
     text-decoration: underline;
 }
 
-.container p {
+.header-container p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     font-weight: 500;
@@ -52,14 +52,14 @@
     letter-spacing: 0.05px;
 }
 
-.container ol {
+.header-container ol {
     display: block;
     width: 300px;
     margin: 0 auto;
     text-align: center;
 }
 
-.container li {
+.header-container li {
     font-family: 'Courier New', Courier, monospace;
     font-size: 14px;
     font-weight: 700;
