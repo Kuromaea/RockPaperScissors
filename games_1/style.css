@@ -1,0 +1,127 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solide red; */
+}
+
+/* Game-container */
+.game-container {
+    width: 1100px;
+    margin: 0 auto;
+    padding: 0 100px;
+}
+
+/* Titles & Rules */
+.container {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.container h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 0.5rem;
+    padding: 24px;
+    text-align: center;
+}
+
+.container h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+    color: #222;
+    margin-bottom: 50px;
+    padding: 30px 50px;
+    line-height: 1.3;
+    letter-spacing: 0.05px;
+}
+
+.container ol {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 0.5rem;
+}
+
+/* Game */
+.choices-container {
+    width: 400px;
+    border: 3px solid #222;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.choices-container h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.4;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.choices-container .person {
+    color: royalblue;
+    margin: 10px 0;
+}
+
+.choices-container .computer {
+    color: royalblue;
+    margin-bottom: 50px;
+}
+
+.choices-container .result {
+    color: red;
+}
+
+/* Game Buttons */
+.choices-btn {
+    text-align: center;
+    padding: 24px;
+}
+
+.choices-btn button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    outline: none;
+    border: 1px solid #222;
+    border-radius: 5px;
+
+    width: 130px;
+    margin: 0 auto;
+    padding: 14px 20px;
+}
+
+.choices-btn button:hover {
+    background-color: red;
+    color: #F1F1F1;
+}

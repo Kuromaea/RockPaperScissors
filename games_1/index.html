@@ -5,17 +5,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rock, Paper, Scissors Game</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-
-    <h2>Computer Choice: <span id="computer-choice"></span></h2>
-    <h2>Your Choice: <span id="user-choice"></span></h2>
-    <h2>Result: <span id="result"></span></h2>
-
-    <button id="🌑">Rock</button>
-    <button id="📄">Paper</button>
-    <button id="✂">Scissors</button>
+    <div class="game-container">
+        <div class="container">
+            <h1>Rock, Paper, Scissors</h1>
+            <p>Despite its underlying complexity, the game’s rules are straightforward. Players deliver hand signals
+                representing rock, paper, or scissors, with the outcome determined by these three rules:</p>
+            <h2>Rules</h2>
+            <ol>
+                <li>Rock wins against scissors.</li>
+                <li>Scissors win against paper.</li>
+                <li>Paper wins against rock.</li>
+            </ol>
+        </div>
+        <div class="choices-container">
+            <h2 class="person">Your Choice: <span id="user-choice"></span></h2>
+            <h2 class="computer">Computer Choice: <span id="computer-choice"></span></h2>
+            <h2 class="result">Result: <span id="result"></span></h2>
+        </div>
+        <div class="choices-btn">
+            <button id="🌑">Rock</button>
+            <button id="📄">Paper</button>
+            <button id="✂">Scissors</button>
+        </div>
+    </div>
 
     <script src="./app.js" charset="UTF-8"></script>
 </body>
