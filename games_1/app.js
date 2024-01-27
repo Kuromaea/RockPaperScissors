@@ -1,20 +1,20 @@
-const computerChoiceDisplay = document.getElementById("computer-choice")
-const userChoiceDisplay = document.getElementById("user-choice")
-const resultDisplay = document.getElementById("result")
-const possibleChoices = document.querySelectorAll("button")
+const computer = document.getElementById("computer-choice")
+const user = document.getElementById("user-choice")
+const battleResult = document.getElementById("result")
+const choices = document.querySelectorAll("button")
 let userChoice
 let computerChoice
 let result
 
-possibleChoices.forEach(possibleChoices => possibleChoices.addEventListener("click", (e) => {
+choices.forEach(choices => choices.addEventListener("click", (e) => {
     userChoice = e.target.id
-    userChoiceDisplay.innerHTML = userChoice
+    user.innerHTML = userChoice
     generateComputerChoice()
     getResult()
 }))
 
 function generateComputerChoice() {
-    const randomNumber = Math.floor(Math.random() * 3) + 1 //  or you can use possiblesChoices.lenght
+    const randomNumber = Math.floor(Math.random() * choices.length) + 1
 
     if (randomNumber === 1) {
         computerChoice = "🌑"
@@ -25,8 +25,7 @@ function generateComputerChoice() {
     if (randomNumber === 3) {
         computerChoice = "📄"
     }
-    computerChoiceDisplay.innerHTML = computerChoice
-    console.log(computerChoice)
+    computer.innerHTML = computerChoice
 }
 
 function getResult() {
@@ -51,5 +50,5 @@ function getResult() {
     if (computerChoice === "✂" && userChoice === "🌑") {
         result = "You win!"
     }
-    resultDisplay.innerHTML = result
+    battleResult.innerHTML = result
 }
