@@ -30,25 +30,25 @@ function generateComputerChoice() {
 
 function getResult() {
     if (computerChoice === userChoice) {
-        result = "it's a draw!"
+        result = "Ex æquo! ⚔️"
     }
     if (computerChoice === "🌑" && userChoice === "📄") {
-        result = "You win!"
+        result = "You conquered! 🗡️"
     }
     if (computerChoice === "🌑" && userChoice === "✂") {
-        result = "You lost!"
+        result = "You perished! 💀"
     }
     if (computerChoice === "📄" && userChoice === "🌑") {
-        result = "You lost!"
+        result = "You perished! 💀"
     }
     if (computerChoice === "📄" && userChoice === "✂") {
-        result = "You win!"
+        result = "You conquered! 🗡️"
     }
     if (computerChoice === "✂" && userChoice === "📄") {
-        result = "You lost!"
+        result = "You perished! 💀"
     }
     if (computerChoice === "✂" && userChoice === "🌑") {
-        result = "You win!"
+        result = "You conquered! 🗡️"
     }
     battleResult.innerHTML = result
 }
