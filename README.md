@@ -6,7 +6,7 @@
 
 # Video ou Images du projet
 
-Insérer une video de présentation
+[Insérer une video de présentation] (https://github.com/Kuromaea/Rock-Paper-Scissors/assets/41955164/34118f5d-8d2a-4655-90a2-81fcc4402651)
 
 ---
 
