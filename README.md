@@ -1,6 +1,6 @@
-# game_1
+# Rock, Paper, Scissors
 
-**Rock, Paper, Scissors**
+![Uploading rps.jpg…]()
 
 ---
 
