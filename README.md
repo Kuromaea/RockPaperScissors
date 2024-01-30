@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors
 
-assets/rps.jpg
+/assets/rps.jpg
 
 ---
 
