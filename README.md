@@ -2,7 +2,6 @@
 
 [Description rapide du projets en 3 phrases] **Check out my new game I whipped up using HTML, CSS & JavaScript!**
 
----
 
 # Video ou Images du projet 🎞
 
@@ -10,13 +9,10 @@
 https://github.com/Kuromaea/RockPaperScissors/assets/41955164/83e69f79-bf9a-4ae9-9a70-af09ae18435d
 
 
----
-
 ## 1. Technologies 💻
 
 - Mettre la tech utiliser dans le projet sous forme de point liste (langage, software, framework, etc..)
 
----
 
 ## 2. Coding goals ✨
 
@@ -38,8 +34,6 @@ I put this together just before diving into my JavaScript training (as of Januar
   It's a simple game of "Rock, Paper, and Scissors" where you play by the rules laid out on the game interface.
         
 
----
-
 ## 3. Features 🛠
 
 Definires en 1 phrase les objectifs des features et implentations
@@ -50,7 +44,6 @@ Definires en 1 phrase les objectifs des features et implentations
 
 - Lister les points qui peuvent être améliorer par la suite
 
----
 
 ## Run and Debug ⚙
 
