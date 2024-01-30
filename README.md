@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors
 
-![Uploading rps.jpg…]()
+(assets/rps.jpg)
 
 ---
 
