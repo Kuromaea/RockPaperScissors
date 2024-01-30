@@ -7,7 +7,7 @@
 # Video ou Images du projet
 
 [Insérer une video de présentation] https://github.com/Kuromaea/Rock-Paper-Scissors/assets/41955164/34118f5d-8d2a-4655-90a2-81fcc4402651
-https://github.com/Kuromaea/RockPaperScissors/assets/41955164/83e69f79-bf9a-4ae9-9a70-af09ae18435d
+https://github.com/Kuromaea/RockPaperScissors/assets/41955164/83e69f79-bf9a-4ae9-9a70-af09ae18435d.mov
 
 
 ---
