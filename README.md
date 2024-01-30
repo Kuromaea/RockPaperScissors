@@ -45,7 +45,7 @@ Definires en 1 phrase les objectifs des features et implentations
 - Lister les points qui peuvent être améliorer par la suite
 
 
-## Run and Debug ⚙
+## 4. Run and Debug ⚙
 
 Faire une petite notices d’utilisations du projet (sous forme de liste à étapes)
 
