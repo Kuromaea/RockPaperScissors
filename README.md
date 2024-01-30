@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors
 
-/assets/rps.jpg
+![img from unsplash] https://unsplash.com/fr/photos/personne-en-chemise-a-manches-longues-a-carreaux-noir-et-blanc-tenant-du-papier-blanc-gSDSkD0tIvo
 
 ---
 
