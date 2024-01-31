@@ -8,9 +8,9 @@
 
 ## 1. Technologies 💻
 
-- HTML
-- CSS
-- JavaScript
+- <code>HTML</code>
+- <code>CSS</code>
+- <code>JavaScript</code>
 
 ## 2. Coding goals ✨
 
@@ -56,6 +56,6 @@ Just click on the various game buttons (choices-btn) at the bottom of the page, 
 
 **Links:**
 
-- Github: https://github.com/Kuromaea
-- Instagram: https://www.instagram.com/kuromaea/?hl=fr
-- https://bento.me/kuromaea
+- <code>Github: https://github.com/Kuromaea</code>
+- <code>Instagram: https://www.instagram.com/kuromaea/?hl=fr</code>
+- <code>https://bento.me/kuromaea</code>
