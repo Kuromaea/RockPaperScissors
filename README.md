@@ -55,11 +55,11 @@ Here are the various features that I was able to add to the game:
 
 ## 4. Run and Debug ⚙
 
-1. Download the RockPaperScissors.zip folder from the project and unzip it.
-2. Open the RockPaperScissors folder with a code editor of your choice.
+1. Download the **RockPaperScissors.zip** folder from the project and unzip it.
+2. Open the **RockPaperScissors folder** with a code editor of your choice.
 3. Launch the file <code>/RockPaperScissors/game-folder/index.html</code> in your browser locally (you can use extensions such as Live Server, Live Preview, etc.).
 4. Read the game rules in the header.
-5. Simply click on the various game buttons (choices-btn) at the bottom of the page, and voila, the showdown begins instantly.
+5. Simply **click** on the various game buttons (choices-btn) at the bottom of the page, and boom, the showdown begins instantly.
    
 > [!NOTE]
 > It's a simple game of "Rock, Paper, and Scissors" where you play by the rules laid out on the game interface.
