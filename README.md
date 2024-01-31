@@ -55,7 +55,7 @@ Here are the various features that I was able to add to the game:
 
 ## 4. Run and Debug ⚙
 
-1. Download the **RockPaperScissors.zip** folder from the project and unzip it.
+1. Download or clone it the **RockPaperScissors.zip** folder from the project and unzip it.
 2. Open the **RockPaperScissors folder** with a code editor of your choice.
 3. Launch the file <code>/RockPaperScissors/game-folder/index.html</code> in your browser locally (you can use extensions such as Live Server, Live Preview, etc.).
 4. Read the game rules in the header.
