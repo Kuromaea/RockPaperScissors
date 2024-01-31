@@ -1,6 +1,6 @@
-# 🗿 Rock - 📄 Paper - ✂ Scissors
+# 🗿 📄 ✂ 
 
-**Check out my new game I whipped up using HTML, CSS & JavaScript!**
+**Rock, Paper & Scissors game: check out my new game I whipped up using HTML, CSS & JavaScript!**
 
 # Introduction 🎞
 
