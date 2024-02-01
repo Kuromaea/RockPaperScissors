@@ -37,15 +37,17 @@ I also noticed that JavaScript bears resemblance to Dart (a language developed b
 
 Here are the various features that I was able to add to the game:
 
-- **<code>const getComputer = document.getElementById(#)</code>**
+```diff
++ const getComputer = document.getElementById(#)
     - This is the initialization in JavaScript: Here, we reference the ID as elements present in the HTML (like a call).
-- **<code>getChoices.forEach(choices => choices.addEventListener("click", (e) => {#}))</code>**
++ getChoices.forEach(choices => choices.addEventListener("click", (e) => {#}))
     - This is the declaration in JavaScript: We declare or rather listen here to the choice made by the user during the interaction with the game buttons.
-- **<code>function generateComputerChoice() {#}</code>**
++ function generateComputerChoice() {#}
     - And finally, the functions & events in JavaScript: The functions will play the role of a "container," and the events of a "containing" using various available properties that will dynamically act to display or modify values.
-- **Point important**
+- Important point
     - We also declare <code>.innerHTML</code> to effectively "mirror" the HTML and thus modify the declared value through the functions mentioned above.
-    
+```
+
 ### ⚒ Optimizations
 
 - Update the JavaScript code according to the more current and less 'junior' naming conventions.
