@@ -4,7 +4,7 @@
 
 # Introduction 🎞
 
-![R,P,S](https://github.com/Kuromaea/RockPaperScissors/assets/41955164/ec921a41-16bd-4d7b-8d66-e089e842f30b)
+https://github.com/Kuromaea/RockPaperScissors/assets/41955164/79efda63-deab-4c0c-9408-7e5c40498e46
 
 ## 1. Technologies 💻
 
