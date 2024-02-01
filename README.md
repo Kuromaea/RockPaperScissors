@@ -12,7 +12,7 @@ https://github.com/Kuromaea/RockPaperScissors/assets/41955164/79efda63-deab-4c0c
 - <code>CSS</code>
 - <code>JavaScript</code>
 
-## 2. Coding goals ✨
+## 2. Coding ✨
 
 I put this together just before diving into my JavaScript training (as of January 30, 2024).
 Here's what I aimed to achieve:
